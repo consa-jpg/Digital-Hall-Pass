@@ -12,3 +12,8 @@ press more and just run it.
 
 
 **lastly i don't know if it'll work if someone doesn't have jre or java in their computer. hope it'll work for school project**
+
+**just in case it won't work download!!**
+
+Java Runtime Environment (JRE) 26.0.0 or later is required to run this application.
+Download from https://www.oracle.com/java/technologies/downloads/ if you don't already have it installed.
