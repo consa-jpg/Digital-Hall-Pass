@@ -1,12 +1,14 @@
-# Digital-Hall-Pass
-This app serve as a hall pass, making it easy for teachers to see and monitor those students who are in the outside of class with time limit.
+# Monitor
+**for Laptop/PC - window only**
+Again too lazy to make a tutorial
 
-btw i haven't made an android app for teacher to monitor students, and know that the "request qr" doesn't work yet since I'm still figuring it out on how to connect it in the internet so the students can request a pass without leaving their desk.
+Dowload the "DigitalHallPass.exe" then run it basically thats all.
 
-plus you might notice a delay in timer (probably because of different clock setting on phone)
+ohh and if it show a warning like "Windows protected your PC
+Microsoft Defender SmartScreen prevented an unrecognized app from starting. Running this app might put your PC at risk."
+press more and just run it.
 
-i haven't tested it out in other computer so i don't know if it'll work in other computer like "window 11 or 10"
+(no it's not a virus, the window just couldn't recognize it and i dunno how to fix it)
 
-if you're a student download the "for android" and make sure you have ZArchiver, open it and select the "app-debug" then install.
 
-for teacher that use laptop/PC -
+**lastly i don't know if it'll work if someone doesn't have jre or java in their computer. hope it'll work for school project**
