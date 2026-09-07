@@ -9,3 +9,6 @@ Microsoft Defender SmartScreen prevented an unrecognized app from starting. Runn
 press more and just run it.
 
 (no it's not a virus, the window just couldn't recognize it and i dunno how to fix it)
+
+
+**lastly i don't know if it'll work if someone doesn't have jre or java in their computer. hope it'll work for school project**
