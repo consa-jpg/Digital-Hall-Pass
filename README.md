@@ -1,13 +1,15 @@
-# Digital-Hall-Pass
-This app serve as a hall pass, making it easy for teachers to see and monitor those students who are in the outside of class with time limit. 
+# Phone Scanner for student
+**only for android**
 
+Too lazy to make a tutorial on how to install it.
 
-btw i haven't made an android app for teacher to monitor students, and know that the "request qr" doesn't work yet since I'm still figuring it out on how to connect it in the internet so the students can request a pass without leaving their desk.
+1. just click the "app-debug.apk" then download.
+2. download "ZAchiver" in play store.
+3. look for the apk you download (in download file)
+4. long press the apk and choose install.
 
-plus you might notice a delay in timer (probably because of different clock setting on phone)
+note: it only install in ZAchiver app idk why either
 
-i haven't tested it out in other computer so i don't know if it'll work in other computer like "window 11 or 10"
+-you might notice a delay in timer (probably because of different clock setting on phone)-
 
-if you're a student download the "for android" and make sure you have ZArchiver, open it and select the "app-debug" then install.
-
-for teacher that use laptop/PC - 
+ 
