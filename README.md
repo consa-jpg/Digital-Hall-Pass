@@ -8,7 +8,7 @@ plus you might notice a delay in timer 😭😭(probably because of different cl
 i haven't tested it out in other computer so i don't know if it'll work in other computer like "window 11 or 10"🥹
 
 now to install🙀
-click the branches to see the options
+click the **branches** to see the options
 -for teacher- and -for students-🤔
 
 each one has a steps on how to install it (pretty lazy steps if i must say)😑
